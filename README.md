@@ -15,9 +15,9 @@ Highlights:
 - 🔗 Webhook integration support
 - 🌟 Professional deployment walkthrough
 
-  ```
+```
 npm install
-  ```
+```
 
 ### Setup .env file
 
